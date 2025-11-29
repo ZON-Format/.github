@@ -14,7 +14,7 @@
   <p>
     <a href="https://github.com/ZON-Format/ZON">ZON-Py</a> •
 <a href="https://github.com/ZON-Format/ZON-TS">ZON-TS</a> •
-    <a href="https://zon.ronibhakta.in/">ZON website</a> •
+    <a href="https://zonformat.org/">ZON website</a> •
     <a href="https://github.com/ZON-Format/.github/blob/main/CONTRIBUTING.md">Contribute</a>
   </p>
 
